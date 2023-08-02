@@ -3,7 +3,7 @@
 
 [General]
 
-skip-proxy = %APPEND% www.shanbay.com,login-service.mobile-bank.psbc.com,mobile-bank.psbc.com
+skip-proxy = %APPEND% *.chinamobile.com,*.gd.10086.cn
 
 ## *.chinamobile.com：中国移动
 ## *.gd.10086.cn：广东移动
