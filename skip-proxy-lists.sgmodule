@@ -3,10 +3,11 @@
 
 [General]
 
-skip-proxy = %APPEND% *.chinamobile.com, *.migu.cn, *.gd.10086.cn, *.pingan.com.cn, *.cmbchina.com, *.unicompayment.com
+skip-proxy = %APPEND% *.chinamobile.com, *.migu.cn, *.gd.10086.cn, *.gmcc.net, *.pingan.com.cn, *.cmbchina.com, *.unicompayment.com
 
 ## *.chinamobile.com：中国移动
 ## *.migu.cn：咪咕
+## *.gd.10086.cn,*.gmcc.net：广东移动
 ## *.pingan.com.cn：平安集团
 ## *.cmbchina.com：招商银行
 ## *.unicompayment.com：联通支付
