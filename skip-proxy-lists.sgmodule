@@ -3,8 +3,7 @@
 
 [General]
 
-skip-proxy = %APPEND% *.chinamobile.com, *.miguvideo.com, *.migu.cn, *.gd.10086.cn, *.gmcc.net, *.pingan.com.cn, *.cmbchina.com, *.unicompayment.com, *.psbc.com, ip-api.com
-
+skip-proxy = localhost, *.local, captive.apple.com, e.crashlytics.com, wxh.wo.cn, gate.lagou.com, www.abchina.com.cn, 10.0.0.0/8, 127.0.0.1/32, 172.16.0.0/12, 192.168.0.0/16, 192.168.122.1/32, 193.168.0.1/32, ::1/128, fe80::/10, *.jegotrip.com.cn, *.icitymobile.mobi, id6.me, iosapps.itunes.apple.com, passenger.t3go.cn, www.baidu.com, yunbusiness.ccb.com, *.chinamobile.com, *.miguvideo.com, *.migu.cn, *.gd.10086.cn, *.gmcc.net, *.pingan.com.cn, *.cmbchina.com, *.unicompayment.com, *.psbc.com
 ## *.chinamobile.com：中国移动
 ## *.migu.cn，*.miguvideo.com：咪咕
 ## *.gd.10086.cn,*.gmcc.net：广东移动
