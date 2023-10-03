@@ -3,7 +3,7 @@
 
 [General]
 
-skip-proxy = %APPEND% *.chinamobile.com, *.miguvideo.com, *.migu.cn, *.gd.10086.cn, *.gmcc.net, *.pingan.com.cn, *.cmbchina.com, *.unicompayment.com, *.psbc.com
+skip-proxy = %APPEND% *.chinamobile.com, *.miguvideo.com, *.migu.cn, *.gd.10086.cn, *.gmcc.net, *.pingan.com.cn, *.cmbchina.com, *.unicompayment.com, *.psbc.com, ip-api.com
 
 ## *.chinamobile.com：中国移动
 ## *.migu.cn，*.miguvideo.com：咪咕
